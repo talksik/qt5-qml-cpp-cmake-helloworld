@@ -1,3 +1,5 @@
+# CAUTION: use MinimalQml repo instead.
+
 # qt5-qml-cpp-cmake-helloworld
 Simple hello world example using qt5, qml, c++, cmake
 
@@ -11,7 +13,7 @@ Simple hello world example using qt5, qml, c++, cmake
 
 
 ## Background
-This is a simple helloworld example: 
+This is a simple helloworld example:
 
 * opens up a window an displays the text "Hello world!"
 * The window and text are configured through a qt5 qml file.
@@ -34,7 +36,7 @@ Assuming you already have an appropriate qt5 environment.
 For osx (macOS) users for step 3 you may need something like:
 
 ```
-cmake .. -DCMAKE_PREFIX_PATH="$(brew --prefix qt5 )" 
+cmake .. -DCMAKE_PREFIX_PATH="$(brew --prefix qt5 )"
 ```
 
 ## hw.qml
@@ -46,10 +48,10 @@ cmake .. -DCMAKE_PREFIX_PATH="$(brew --prefix qt5 )"
 ## CMakeLists.txt
 This is the **cmake** config file.
 
-Of note: 
+Of note:
 
 * it looks for the appropriate Qt5 packages
    * `find_packages`
-* what libraries to link with 
-   * `target_link_libraries` 
+* what libraries to link with
+   * `target_link_libraries`
 * copy the `qml` directory locally

@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/qmlApp_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/qmlApp.dir/qmlApp_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/qmlApp_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/qmlApp_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/qmlApp_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/qmlApp.dir/main.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/main.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/main.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QMLTEST_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests/tst_math_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuickTest -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtTest -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels  -Wall -g -fPIC -o CMakeFiles/tst_math.dir/tst_math_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests/tst_math_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests/tst_math_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QMLTEST_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/tests/qmltests/tst_math_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuickTest -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtTest -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels  -Wall -g -fPIC -o CMakeFiles/tst_math.dir/tst_math.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/tests/qmltests/tst_math.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/tests/qmltests/tst_math.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/gmock_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/gmock_main_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gmock_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/gtest_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/gtest_main_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_main_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_main_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest",
+  "command": "/usr/bin/c++ -DQT_QML_DEBUG -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-build/googlemock/gtest/gtest_main_autogen/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/include -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest  -Wall -g  -Wall -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mpApp_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/mpApp.dir/mpApp_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mpApp_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mpApp_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mpApp_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/mpApp.dir/mp.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/mp/mp.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/mp/mp.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mp2App_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/mp2App.dir/mp2App_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mp2App_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mp2App_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_DEBUG -DQT_QML_LIB -DQT_QUICK_LIB -I/home/talksik/code/qt5-qml-cpp-cmake-helloworld/build/mp/mp2App_autogen/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQml -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtNetwork -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtCore -isystem /home/talksik/Qt/5.15.14/gcc_64/./mkspecs/linux-g++ -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQuick -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtQmlModels -isystem /home/talksik/Qt/5.15.14/gcc_64/include/QtGui  -Wall -g -fPIC -o CMakeFiles/mp2App.dir/mp2.cpp.o -c /home/talksik/code/qt5-qml-cpp-cmake-helloworld/mp/mp2.cpp",
+  "file": "/home/talksik/code/qt5-qml-cpp-cmake-helloworld/mp/mp2.cpp"
+}
+]
